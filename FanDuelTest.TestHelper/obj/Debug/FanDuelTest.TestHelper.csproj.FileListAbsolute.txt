@@ -1,0 +1,16 @@
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\obj\Debug\FanDuelTest.TestHelper.csproj.CoreCompileInputs.cache
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\FanDuelTest.TestHelper.dll
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\FanDuelTest.TestHelper.pdb
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Newtonsoft.Json.dll
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Core.dll
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Platform.dll
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Newtonsoft.Json.xml
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Core.pdb
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Core.xml
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\obj\Debug\FanDuelTest.TestHelper.dll
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\obj\Debug\FanDuelTest.TestHelper.pdb
+C:\FanDuel\FanDuelTest\FanDuelTest.TestHelper\obj\Debug\FanDuelTest.TestHelper.csprojResolveAssemblyReference.cache

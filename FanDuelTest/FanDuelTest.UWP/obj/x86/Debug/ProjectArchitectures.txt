@@ -1,0 +1,1 @@
+C:\FanDuel\FanDuelTest\FanDuelTest\FanDuelTest.UWP\FanDuelTest.UWP.csproj;x86
